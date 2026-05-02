@@ -1,7 +1,6 @@
 ## Hi there! It's Venkat Krishna👋
 # 💫 About Me:
-I am an aspiring Data Analyst with a strong interest in turning data into meaningful insights. I have hands-on experience working with tools like Python, SQL, Power BI, Excel, and Tableau to perform data cleaning, analysis, and visualization.<br><br>I enjoy exploring datasets to identify patterns, trends, and business insights that can support data-driven decision-making. I have worked on end-to-end analytics projects involving data preprocessing, exploratory data analysis (EDA), SQL-based querying, and dashboard creation.<br><br>In addition, I have basic knowledge of machine learning concepts and techniques, which helps me understand predictive analytics.<br><br>I also have a background in Java development using Spring Boot and Hibernate, but my primary focus is building a career in data analytics.<br>
-
+I am an aspiring Data Analyst with a strong interest in turning data into meaningful insights. I have hands-on experience working with tools like Python, SQL, Power BI, Excel, and Tableau to perform data cleaning, analysis, and visualization.<br><br>I enjoy exploring datasets to identify patterns, trends, and business insights that can support data-driven decision-making. I have worked on end-to-end analytics projects involving data preprocessing, exploratory data analysis (EDA), SQL-based querying, and dashboard creation.<br><br>In addition, I have good knowledge of machine learning concepts and techniques, which helps me understand predictive analytics.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/venkat-krishna-reddy) 
